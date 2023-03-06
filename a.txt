@@ -5,6 +5,3 @@ aaaaaaa
 bbbb
 
 cccc
-
-
-ffff
